@@ -21,16 +21,22 @@ I did British A-level program in Grade 10 & 11... then I relocated to Hamilton, 
 #### 🧡 &nbsp;&nbsp;My passions
 
 🧡 World / EU History
+<br />
 🧡 Criminal Cases 
+<br />
 🧡 Geoguesser/Tuxun (https://tuxun.fun/)
+<br />
 🧡 ACG
 
 
 <br />
       <tr>
           <td>
-            👉 &nbsp;&nbsp;if u want to contact me: jli1964@hwdsb.on.ca
+            👉 &nbsp;&nbsp;if u want to reach me: jli1964@hwdsb.on.ca
           </td>
       </tr>
   </table>
 </a>
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/Jamesssssama/count.svg" />
