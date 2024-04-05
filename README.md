@@ -13,27 +13,23 @@ I'm a highschooler in Ontario and a future undergraduate in UTSG
   <br />
 </div>
 
-I did British A-level program in Grade 10 & 11... then I relocated to Hamilton, Ontario in 2023, and started my new life in Canada! Now, I am focusing on 
+I did British A-level program in Grade 10 & 11... then I relocated to Hamilton, Ontario in 2023, and started my new life in Canada! Now, I am focusing on developing my personal skills and I am  looking forward to continue my acedemic carreer in Uoft! 
 
 <br />
 
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
-* Nature
+🧡 World / EU History
+🧡 Criminal Cases 
+🧡 Geoguesser/Tuxun (https://tuxun.fun/)
+🧡 ACG
+
 
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
       <tr>
           <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
+            👉 &nbsp;&nbsp;if u want to contact me: jli1964@hwdsb.on.ca
           </td>
       </tr>
   </table>
