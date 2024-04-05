@@ -9,6 +9,7 @@ I'm a highschooler in Ontario and a future undergraduate in UTSG
   <img src="https://github-readme-stats.vercel.app/api?username=Jamessssssama&show_icons=true" alt="James's Github Stats"></img>
   <br />
   <small>[In progress] Learning CS languages now... [In progress] </small>
+  ![](cat-typing.gif)
   <br />
   <br />
 </div>
