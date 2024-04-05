@@ -1,15 +1,17 @@
 # Ciallo～(∠・ω< )⌒★! It's me, JAMES!👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
+<a href="https://peerlist.io/vinitshahdeo"><img src="https://github-readme-badge.peerlist.io/api/Jamessssssama"/></a>
 I'm a highschooler in Ontario and a future undergraduate in UTSG
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamessssssama&layout=compact&hide_title=1&card_width=300" alt="James's Language Stats"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=Jamessssssama&show_icons=true" alt="James's Github Stats"></img>
   <br />
-  <small>[In progress] Learning CS languages now... [In progress] </small>
+  [In progress] Learning CS languages now... [In progress] 
+
   ![](cat-typing.gif)
+  
   <br />
   <br />
 </div>
