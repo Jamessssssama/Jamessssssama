@@ -13,19 +13,10 @@ I'm a highschooler in Ontario and a future undergraduate in UTSG
   <br />
 </div>
 
-I did British A-level program in Grade 10 & 11... then I relocated to Hamilton, Ontario in 2023, A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+I did British A-level program in Grade 10 & 11... then I relocated to Hamilton, Ontario in 2023, and started my new life in Canada! Now, I am focusing on 
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
- 
-* [Power of Partial Prerendering with Bun](https://aralroca.com/blog/partial-prerendering) 
-* [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming) 
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer) 
-* [Creating Scalable and Reusable React Components](https://aralroca.com/blog/creating-scalable-and-reusable-react-components) 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://aralroca.com/blog/i18n-translations-nextjs-13-app-dir)
-
-<br />
 
 #### 🧡 &nbsp;&nbsp;My passions
 
